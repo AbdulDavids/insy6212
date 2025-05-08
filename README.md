@@ -2,6 +2,10 @@
 
 Setting up a new project can be overwhelming, so we took some time to plan things properly. We imported all our planned tasks into GitHub issues and made sure everyone knows what they're responsible for.
 
+![Issue Board](./images/issues-1.png)
+
+![Issue Board](./images/issues-2.png)
+
 ## Our Team Members
 
 For this project, we've mapped our actual team members to the roles in the requirements. Our team serves as drop-in replacements for the original roles while maintaining the same responsibilities:
